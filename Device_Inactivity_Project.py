@@ -15,7 +15,7 @@ import numpy as np
 import datetime
 
 #Read in the GPS data
-data= pd.read_csv(r'C:\Users\Yemmy\Downloads\GPS_Report_Sept_2018_Sample.csv')
+data= pd.read_csv('../GPS_Report_Sept_2018_Sample.csv')
 
 #Data prep and analysis
 
